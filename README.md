@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-**Navit Transfers** is an end-to-end Data Engineering and Business Intelligence project built for a tourist transportation platform.
+**Navit Transfers** is an end-to-end Data Engineering and Business Intelligence project built for a tourist transportation platform. 
 The project demonstrates the complete analytics lifecycle, starting from raw data cleaning and exploratory data analysis in Python, moving through feature engineering and data modeling, and ending with an interactive Power BI dashboard designed for business decision-making.
 
 The goal of this project is to transform raw operational ride data into a clean, scalable, and analytics-ready **Star Schema** model that supports advanced KPI tracking, fleet monitoring, revenue analysis, and driver performance evaluation.
